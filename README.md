@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @promagnesia
+- 👀 I’m interested in advance science
+- 🌱 I’m currently learning Flutter, Dart
+- Gratias!
